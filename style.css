@@ -1,0 +1,21 @@
+body{
+    font-family: sans-serif;
+    font-size: 17px;
+    background: grey;
+    line-height: 1.5em;
+}
+
+header{
+    background: #333;
+    color: white;
+    padding: 20pxl;
+    text-align: center;
+    border-bottom: 4px #000 solid;
+    margin-bottom: 10px;
+}
+
+#container{
+    width: 90%;
+    margin: auto;
+    padding: 10px;
+}
